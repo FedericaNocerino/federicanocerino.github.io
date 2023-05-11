@@ -3,8 +3,8 @@
 <head>
 <title>Title of the document</title>
 </head>
-<3
 <body>
+  <3
 The content of the document......
 </body>
 
